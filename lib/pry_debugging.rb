@@ -1,5 +1,6 @@
 def plus_two (num)
-    num+1
+    num= (num+2)
+    num
   
 end
 
