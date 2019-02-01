@@ -1,5 +1,5 @@
-def plus_two (num=3)
-    puts 3 + 2
+def plus_two (num)
+    num+1
   
 end
 
